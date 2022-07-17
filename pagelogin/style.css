@@ -62,6 +62,10 @@ body *{
     margin: 0;
 }
 
+a{
+    color: #00ff88;
+}
+
 .textfield{
     width: 100%;
     display: flex;
@@ -111,7 +115,7 @@ body *{
 
 @media only screen and (max-widht: 950px){
     .card-login{
-        width: 85%
+        width: 85%;
     }
 }
 
@@ -141,4 +145,7 @@ body *{
     .card-login{
         width: 90%;
     }
+}
+
+    
 
